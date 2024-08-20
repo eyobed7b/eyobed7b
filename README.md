@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eyobed </h1>
-<h3 align="center">A passionate Data Engineer, BigData Engineer  , Fullstack Developer  flutter developer from Ethiopia</h3>
+<h3 align="center">A passionate Data Engineer, BigData Engineer  , Fullstack Developer  and flutter developer from Ethiopia</h3>
 
 - 📫 How to reach me
 **https://eyobed7b.github.io/**
